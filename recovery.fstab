@@ -1,0 +1,7 @@
+/dev/block/ndsystem		/system		ext4	defaults	defaults
+/dev/block/nddata		/data		ext4	defaults	defaults
+/dev/block/ndcache		/cache		ext4	defaults	defaults
+/dev/block/mmcblk0p1	/sdcard		vfat	defaults	defaults
+/dev/block/ndmisc		/misc		mtd		defaults	defaults
+/dev/block/ndboot		/boot		mtd		defaults	defaults
+/dev/block/ndrecovery	/recovery	mtd		defaults	defaults
